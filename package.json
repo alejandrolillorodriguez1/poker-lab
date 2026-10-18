@@ -1,0 +1,12 @@
+{
+  "name": "poker-lab",
+  "version": "1.4.0",
+  "private": true,
+  "description": "Simulador de Texas Hold’em para web y Android con rivales de IA y estilos ocultos",
+  "scripts": {
+    "start": "node scripts/serve.cjs",
+    "package:mobile": "node scripts/package-mobile.cjs",
+    "test": "node tests/check-profiles.cjs && node tests/check-betting-behavior.cjs && node tests/check-strategy.cjs && node tests/check-extras.cjs"
+  },
+  "engines": {"node": ">=18"}
+}

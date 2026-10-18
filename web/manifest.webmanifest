@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Poker Lab",
+  "short_name": "Poker Lab",
+  "description": "Practica Texas Hold’em contra rivales de IA, con análisis de decisiones y jazz.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101817",
+  "theme_color": "#101817",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icon-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
